@@ -1,1 +1,1 @@
-# Codewars-Python
+# My assignment solutions of Codewars tasks by using Python.
